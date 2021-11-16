@@ -10,7 +10,8 @@
 3. Python-ish events
 4. Piano
 5. Hiking
--...
+
+- ...
 
 <!---
 Minjian-Li/Minjian-Li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
