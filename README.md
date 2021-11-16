@@ -10,7 +10,6 @@
 3. Python-ish events
 4. Piano
 5. Hiking
-
 - ...
 
 <!---
